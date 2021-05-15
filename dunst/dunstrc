@@ -1,0 +1,32 @@
+[global]
+	monitor =		0
+	follow = 		mouse
+	transparency = 		0.7
+	font =			Google sans
+	icon_position =		off
+	dmenu =			/usr/bin/bemenu -p dunst
+	corner_radius =		8
+	vertical_alignment =	center
+	alignment = 		center
+	geometry = 		"300x5-30+20"
+	frame_width = 		2
+	frame_color = 		"#e0e0e0"
+	foreground = 		"#e0e0e0"
+
+[urgency_low]
+	timeout = 		10
+	foreground =		"#e0e0e0"
+	frame_color = 		"#e0e0e0"
+	background = 		"#30e21f"
+
+[urgency_normal]
+	timeout = 		15
+	foreground = 		"#e0e0e0"
+	frame_color = 		"#e0e0e0"
+	background =		"#1f9be2"
+
+[urgency_critical]
+	timeout = 		30
+	foreground =		"#e0e0e0"
+	frame_color =		"#e0e0e0"
+	background =		"#ea361e"
