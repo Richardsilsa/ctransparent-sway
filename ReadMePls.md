@@ -4,4 +4,4 @@
 
 Please install [dunst](https://github.com/dunst-project/dunst), [fuzzel](https://codeberg.org/dnkl/fuzzel), [light](https://github.com/haikarainen/light), [pamixer](https://github.com/cdemoulins/pamixer), [wlsunset](https://git.sr.ht/~kennylevinsen/wlsunset), [grim](https://github.com/emersion/grim), and (Pop icons)[https://github.com/pop-os/icon-theme] or modify the files so you can you other software in place like the ones [here](https://github.com/swaywm/sway/wiki/i3-Migration-Guide), All these packages can be installed with pacman or yay.
 
-Read the [config](https://github.com/Richardsilsa/ctransparent-sway/sway/config) so you can know the keybindings
+Read the [config](https://github.com/Richardsilsa/ctransparent-sway/blob/main/sway/config) so you can know the keybindings
