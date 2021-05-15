@@ -1,0 +1,39 @@
+* {
+	border:			none;
+	font-family:		Google sans;
+	font-size:		13px;
+	min-height:		0;
+}
+
+window#waybar {
+	background-color: 	rgba(0, 0, 0, 0.5);
+}
+
+#workspaces button {
+	padding:		0 0px;
+}
+
+#workspaces button.focused {
+	background-color:	#e0e0e0;
+	color:			#212121;
+}
+
+#clock {
+	padding:		0 4px;
+}
+
+#battery {
+	padding:		0 4px;
+}
+
+#pulseaudio {
+	padding:		0 4px;
+}
+
+#window {
+	padding:		0 4px;
+}
+
+#tray {
+	padding:		0 4px;
+}
